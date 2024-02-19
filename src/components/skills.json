@@ -1,0 +1,69 @@
+[
+    {
+        "id":"1",
+        "imgsrc":"https://img.icons8.com/color/512/html-5--v1.png",
+        "title":"HTML"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://img.icons8.com/fluency/512/css3.png",
+        "title":"CSS"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://img.icons8.com/color/512/javascript.png",
+        "title":"Javascript"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://img.icons8.com/office/512/react.png",
+        "title":"React"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://pngimg.com/uploads/github/github_PNG70.png",
+        "title":"Github"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://img.icons8.com/color/512/chakra-ui.png",
+        "title":"Chakra"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://www.pngrepo.com/download/354431/tailwindcss-icon.png",
+        "title":"Tailwind css"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://th.bing.com/th/id/R.da53dc3418ca99ce8fec3846274d9cb8?rik=7Qcec6x2MyB8%2bw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fbootstrap-png-bootstrap-512.png&ehk=BlRbDLn1AD%2f9puV15VDXoihIzzttL%2bYGFjbEx6uC2cI%3d&risl=&pid=ImgRaw&r=0",
+        "title":"Bootstrap"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://logodix.com/logo/1764972.png",
+        "title":"Node js"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png",
+        "title":"express js"
+
+    },
+    {
+        "id":"2",
+        "imgsrc":"https://th.bing.com/th/id/R.0e23481b805fa66eb9ff0c177ff27030?rik=00LN9yVT3nMAyw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-mongodb-png-mongodb-1600.png&ehk=YwJU48GqAzZ6V3Zlafc4pyilw%2biV5XBxEO7chpNV3M8%3d&risl=&pid=ImgRaw&r=0",
+        "title":"Mongo db"
+
+    }
+  
+]
